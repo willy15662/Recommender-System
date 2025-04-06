@@ -32,7 +32,7 @@
 ---
 ## 📁 資料集
 
-👉 (https://drive.google.com/drive/folders/15_SoKLusux3w5Xb05spBpsyOcZ1geguq?usp=sharing)
+👉 [點此前往雲端資料集](https://drive.google.com/drive/folders/15_SoKLusux3w5Xb05spBpsyOcZ1geguq?usp=sharing)
 
 ## 📁 範例輸出格式
 
