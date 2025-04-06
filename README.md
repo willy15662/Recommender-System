@@ -30,6 +30,9 @@
    最終輸出為 `output.csv`，可用於後續模型訓練或分析。
 
 ---
+## 📁 資料集
+
+👉 (https://drive.google.com/drive/folders/15_SoKLusux3w5Xb05spBpsyOcZ1geguq?usp=sharing)
 
 ## 📁 範例輸出格式
 
